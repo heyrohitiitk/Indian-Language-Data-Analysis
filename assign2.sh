@@ -1,0 +1,10 @@
+python3 Question-1/percent-india.py
+python3 Question-2/gender-india.py
+python3 Question-3/geography-india.py
+python3 Question-4/2-to-1-ratio.py
+python3 Question-4/3-to-2-ratio.py
+python3 Question-5/age-india.py
+python3 Question-6/literacy-india.py
+python3 Question-7/region-india.py
+python3 Question-8/age-gender.py
+python3 Question-9/literacy-gender.py
